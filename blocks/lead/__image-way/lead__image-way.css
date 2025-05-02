@@ -1,0 +1,11 @@
+.lead__image-way {
+    position: absolute;
+
+    top: 30%;
+    left: 2.5%;
+    right: 5%;
+
+    margin: 0 auto;
+
+    width: 95%;
+}
